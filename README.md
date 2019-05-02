@@ -1,4 +1,3 @@
-# alohadharma
 Aloha Dharma: a compilation of texts from https://alohadharma.com
 
 All texts were written by [Ron Crouch](https://alohadharma.com/about/).
