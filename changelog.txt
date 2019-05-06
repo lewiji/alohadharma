@@ -1,0 +1,66 @@
+Changelog
+--
+
+TBA - V 1.7 (work in progress)
+---------------------
+- fixed minor typos
+
+
+2019-05-03 - V 1.6
+---------------------
+- changed Ajahn Brahm's url to https://en.wikipedia.org/wiki/Ajahn_Brahm
+- changed Ayya Khema's url to https://en.wikipedia.org/wiki/Ayya_Khema
+- changed Bhante Gunaratana's url to https://bhavanasociety.org/teachers/bg
+- transformed URLs to footnotes
+- removed links appearing more than once (ex. Ingram's and Folk's websites etc.)
+- moved all sources to Notes/Source subsection
+
+
+2019-05-02 - V 1.5 
+---------------------
+- changed Tina Rassmussen's and Stevben Snyder url to http://www.jhanasadvice.com
+- changed Buddhist Geeks podcast url to http://podcast.buddhistgeeks.org/
+- changed Daniel Ingram's url to http://integrateddaniel.info/
+- changed Kornfields/Buddhist Geeks podcast URL to http://podbay.fm/show/211752923/e/1442707200?autostart=1
+- changed Vimuttimagga url to http://urbandharma.org/pdf1/Path_of_Freedom_Vimuttimagga.pdf
+- changed MCTB url to https://www.mctb.org/
+- changed In this Very Life url to https://www.amazon.com/This-Very-Life-Liberation-Teachings/dp/0861713117
+- added information about replaced URLs in Notes/Source subsection 
+
+
+2019-05-02 - V 1.4
+---------------------
+- corrected various typos:
+
+"mediation" to "meditation"
+"-style" to "style"
+"ake" to "Take"
+removed "Mountainbiker http://www.stockfreeimages.com/" from the beginning of Intellectualism subsection
+added a comma --> Once practice has matured to a certain point(,) the logic
+removed "loving kindness1" from the beginning of Metta vs "Love" subsection
+removed "mahamudra metta" from the beginning of Mahamudra Metta subsection
+
+
+2019-04-25 - V 1.3
+---------------------
+- added sources per chapter
+- fixed a typo in the beginning of "What is Pragmatic Dharma"
+
+
+2019-04-24 - V 1.2
+---------------------
+- added "The myth of mindfulness" article
+- added "Psychological Self vs. No-Self" article
+
+
+2019-04-24 - V 1.1
+---------------------
+- modified Preface text
+- added copyright information in Notes section
+- fixed ToC header
+
+
+2019-04-23 - V 1.0
+---------------------
+- initial release
+
